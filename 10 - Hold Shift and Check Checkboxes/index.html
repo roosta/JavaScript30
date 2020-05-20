@@ -96,23 +96,25 @@
   </div>
 
 <script>
-const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');
-let previous;
+ const checkboxes = document.querySelectorAll('.inbox input[type="checkbox"]');
+ let previous;
 
- // fns
  function handleClick(e) {
+   let between = false;
    if (e.shiftKey && this.checked) {
-
+     checkboxes.forEach(checkbox => {
+       if (checkbox === this || checkbox === previous) {
+         between = !between;
+       }
+       if (between) {
+         checkbox.checked = true;
+       }
+     });
    }
    previous = this;
  };
 
  checkboxes.forEach(checkbox => checkbox.addEventListener('click', handleClick));
-
-
-
-
-
 </script>
 </body>
 </html>
