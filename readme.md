@@ -48,6 +48,10 @@ Feel free to submit a PR adding a link to your own recaps, guides or reviews!
 * [Santiago Escobar](https://github.com/sescobar99)'s [repository](https://github.com/sescobar99/javascript30-challenge) and [GitHub Pages showcase](https://sescobar99.github.io/javascript30-challenge/).
 * [Harry Xie](https://github.com/a90100/JavaScript30) 紀錄 30 天的練習筆記在 [此連結](https://github.com/a90100/JavaScript30).
 * [ Van Ribeiro's ](https://vanribeiro-30daysofjavascript.netlify.app/) about demos and recaps. On [GitHub Repo](https://github.com/vanribeiro/30days-Of-JavaScript) there's a summary about what was learned and researched.
+* [Mugilan](https://github.com/Mugilan-Codes) is currently doing this challenge. Check out his [Repo](https://github.com/Mugilan-Codes/javascript-30) and the [Live Demo](https://mugilan-codes.github.io/javascript-30/).
+* [Eshan Vohra](https://github.com/eshanvohra) is currently doing this challenge. Check out my repo [here](https://github.com/eshanvohra/JavaScript30).
+* [RegusAl](https://github.com/RegusAl) is currently doing this challenge. Check out my repo [here](https://github.com/RegusAl/JavaScript30).
+* [Ayush Gupta's](https://javascript30.ayushgupta.tech/) implementation of JavaScript30 challenge with some add-ons & updated design.
 
 
 ## Alternative Implementations
@@ -60,6 +64,7 @@ Here are some links of people who have done the tutorials, but in a different la
 * [Bogdan Lazar](https://github.com/tricinel/TypeScript30) all the JavaScript 30 written in [TypeScript](https://www.typescriptlang.org/)
 * [Will Wager](https://github.com/wwags33/JavaScript30) another [TypeScript](https://www.typescriptlang.org/) implementation!
 * [marcoSven](https://github.com/marcoSven) solution suggestion for [10 - Hold Shift and Check Checkboxes](https://github.com/marcoSven/JavaScript30/blob/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/index-FINISHED.html)
+* [ALMaclaine](https://github.com/almaclaine) Javascript 30 written in [Dart 2.0](https://github.com/ALMaclaine/Dart30).
 
 ## A note on Pull Requests
 
